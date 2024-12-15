@@ -215,7 +215,10 @@ Publish the website in the given URL.
     </div>
 ```
 ## OUTPUT:
-
+![alt text](<image copy 16.png>)
+![alt text](<image copy 17.png>)
+![alt text](<image copy 18.png>)
+![alt text](<image copy 19.png>)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
